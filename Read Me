@@ -2,5 +2,5 @@ Features => SeleniumTest1\src\test\java\Features\Login.feature
 StepDefinition => SeleniumTest1\src\test\java\stepDefinitions\feature\Geiger
 TestRunner => SeleniumTest1\src\test\java\CucumberOptions\TestNGTestRunner
 PageObjects => SeleniumTest1\src\test\java\pageObejects\uimap
-HTML Reports => SeleniumTest1\test-output\HTML test report1 & HTML test report 2
+HTML Reports => SeleniumTest1\test-output\HTML test report1 
 Screenshots => SeleniumTest1\test-output\Screenshots
